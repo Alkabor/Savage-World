@@ -1,0 +1,1 @@
+{"name": "Forger un objet", "type": "Macro", "flags": {}, "command": "ui.notifications.info(\"Lance un test d'outil de forge (Forgeron) pour cr\u00e9er l'objet selon la recette.\")", "macroType": "script"}
